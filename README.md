@@ -1,3 +1,4 @@
+![formulario.jpg](img/formulario.jpg)
 Página de Cadastro
 Um formulário de cadastro simples utilizando HTML e CSS.
 
